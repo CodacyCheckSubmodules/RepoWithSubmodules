@@ -1,0 +1,3 @@
+[submodule "RepoWithoutSubmodules"]
+	path = RepoWithoutSubmodules
+	url = https://github.com/CodacyCheckSubmodules/RepoWithoutSubmodules.git
